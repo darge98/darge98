@@ -13,29 +13,17 @@
 
 🧰 Toolbox
 
-<img src="./img/toolbox-icon/html5.svg" alt="HTML5 Logo" width="50" height="50"/>
-<img src="./img/toolbox-icon/css3.svg" alt="CSS3 Logo" width="50" height="50"/>
-<img src="./img/toolbox-icon/bootstrap.svg" alt="Bootstrap Logo" width="50" height="50"/>
-<img src="./img/toolbox-icon/tailwindcss.svg" alt="Tailwind Logo" width="50" height="50"/>
+<img src="./img/toolbox-icon/html5.svg" alt="HTML5 Logo" title="HTML" width="50" height="50"/> <img src="./img/toolbox-icon/css3.svg" alt="CSS3 Logo" title="CSS" width="50" height="50"/> <img src="./img/toolbox-icon/bootstrap.svg" alt="Bootstrap Logo" title="Bootstrap" width="50" height="50"/> <img src="./img/toolbox-icon/tailwindcss.svg" alt="Tailwind Logo" title="Tailwind" width="50" height="50"/>
 <br/>
-<img src="./img/toolbox-icon/javascript.svg" alt="Javascript Logo" width="50" height="50"/>
-<img src="./img/toolbox-icon/typescript.svg" alt="Typescript Logo" width="50" height="50"/>
-<img src="./img/toolbox-icon/nodejs.svg" alt="Node Logo" width="50" height="50"/>
-<img src="./img/toolbox-icon/npm.svg" alt="NPM Logo" width="50" height="50"/>
-<img src="./img/toolbox-icon/react.svg" alt="React Logo" width="50" height="50"/>
-<img src="./img/toolbox-icon/angular.svg" alt="Angular Logo" width="50" height="50"/>
-<img src="./img/toolbox-icon/ngrx.svg" alt="NGRX Logo" width="50" height="50"/>
+<img src="./img/toolbox-icon/javascript.svg" alt="Javascript Logo" title="Javascript" width="50" height="50"/> <img src="./img/toolbox-icon/typescript.svg" alt="Typescript Logo" title="Typescript" width="50" height="50"/> <img src="./img/toolbox-icon/nodejs.svg" alt="Node Logo" title="NodeJS" width="50" height="50"/> <img src="./img/toolbox-icon/npm.svg" alt="NPM Logo" title="NPM" width="50" height="50"/> <img src="./img/toolbox-icon/react.svg" alt="React Logo" title="React" width="50" height="50"/> <img src="./img/toolbox-icon/angular.svg" alt="Angular Logo" title="Angular" width="50" height="50"/> <img src="./img/toolbox-icon/ngrx.svg" alt="NGRX Logo" title="NGRX" width="50" height="50"/>
 <br/>
-<img src="./img/toolbox-icon/csharp.svg" alt="C# Logo" width="50" height="50"/>
-<img src="./img/toolbox-icon/netcore.svg" alt="NetCore Logo" width="50" height="50"/>
+<img src="./img/toolbox-icon/csharp.svg" alt="C# Logo" title="C#" width="50" height="50"/> <img src="./img/toolbox-icon/netcore.svg" alt="NetCore Logo" title=".Net Core" width="50" height="50"/>
 <br/>
-<img src="./img/toolbox-icon/java.svg" alt="Java Logo" width="50" height="50"/>
-<img src="./img/toolbox-icon/spring.svg" alt="Spring Logo" width="50" height="50"/>
-<img src="./img/toolbox-icon/vaadin.svg" alt="Vaadin Logo" width="50" height="50"/>
+<img src="./img/toolbox-icon/java.svg" alt="Java Logo" title="Java" width="50" height="50"/> <img src="./img/toolbox-icon/spring.svg" alt="Spring Logo" title="Spring" width="50" height="50"/> <img src="./img/toolbox-icon/vaadin.svg" alt="Vaadin Logo" title="Vaadin" width="50" height="50"/>
 <br/>
-<img src="./img/toolbox-icon/reactivex.svg" alt="ReactiveX Logo" width="50" height="50"/>
+<img src="./img/toolbox-icon/reactivex.svg" alt="ReactiveX Logo" title="ReactiveX" width="50" height="50"/>
 <br/>
-<img src="./img/toolbox-icon/git.svg" alt="Git Logo" width="50" height="50"/>
+<img src="./img/toolbox-icon/git.svg" alt="Git Logo" title="GIT" width="50" height="50"/>
 
 ---
 
